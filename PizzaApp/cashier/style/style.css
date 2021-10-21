@@ -1,0 +1,37 @@
+.FixedHeightContainer
+{
+  height: 560px;
+  width:100%; 
+  padding:3px; 
+  background:rgb(36, 35, 35);
+  color: #fff;
+}
+
+.FixedHeightContainer2
+{
+  height: 100%;
+  /*width:100%;*/
+  padding:3px;
+}
+
+.Content
+{
+   height: 480px;
+   overflow:auto;
+}
+
+.Content2
+{
+   height: 100%;
+   overflow:auto;
+}
+
+h5{
+    width: 100%;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.buttons{
+  width: 100%;
+}
